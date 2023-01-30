@@ -1,20 +1,21 @@
-Hangman App in React
+#Hangman App in React
+
 A classic word guessing game built with React where players have to guess the word letter by letter before the hangman is drawn.
 
-Rules of the game
-The game will randomly pick a word from a word list and display it with underscores to represent the unguessed letters.
-The player will have to guess the letter by typing it.
-If the letter is in the word, it will be filled in the corresponding spaces.
-If the letter is not in the word, the hangman will be drawn part by part.
-The player wins if they can guess the word before the hangman is completely drawn.
-The player loses if the hangman is completely drawn.
-Getting Started
-Follow these instructions to install and run the Hangman App on your local machine.
+##Rules of the game
+-The game will randomly pick a word from a word list and display it with underscores to represent the unguessed letters.
+-The player will have to guess the letter by typing it.
+-If the letter is in the word, it will be filled in the corresponding spaces.
+-If the letter is not in the word, the hangman will be drawn part by part.
+-The player wins if they can guess the word before the hangman is completely drawn.
+-The player loses if the hangman is completely drawn.
+-Getting Started
+
+##Follow these instructions to install and run the Hangman App on your local machine.
 
 Clone the repository to your local machine using the following command:
-bash
-Copy code
-git clone https://github.com/[your-username]/hangman-app.git
+
+`git clone https://github.com/[your-username]/hangman-app.git`
 Change your current directory to the cloned repository:
 bash
 Copy code
