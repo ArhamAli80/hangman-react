@@ -15,7 +15,7 @@ A classic word guessing game built with React where players have to guess the wo
 
 Clone the repository to your local machine using the following command:
 
-`git clone https://github.com/[your-username]/hangman-app.git`
+`https://github.com/ArhamAli80/hangman-react.git`
 Change your current directory to the cloned repository:
 bash
 Copy code
